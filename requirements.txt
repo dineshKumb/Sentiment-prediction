@@ -1,6 +1,5 @@
 numpy==1.23.1
 pandas==1.4.3
-python
 sklearn==3.1.0
 streamlit==2.21
 gunicorn==61.2.0
