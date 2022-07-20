@@ -1,4 +1,5 @@
 numpy==1.23.1
 pandas==1.4.3
+sklearn
 streamlit==1.11.0
 gunicorn==20.1.0
